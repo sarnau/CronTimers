@@ -1,0 +1,17 @@
+{
+  "name": "CronTimers",
+  "keywords": "cron",
+  "description": "A simple library to parse and execute cron style timers",
+  "homepage": "https://github.com/sarnau/AtariSTRomListings",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sarnau/ArduinoCronTimers.git"
+  },
+  "version": "1.0.0",
+  "authors": {
+    "name": "Markus Fritze",
+    "url": "https://www.sarnau.info"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
